@@ -1,0 +1,9 @@
+<DOCTYPE html>
+<html>
+
+<head>
+<title>JavaScript | Task one </title>
+</head>
+<body onload="window.alert('hello');"> 
+
+ </html>
